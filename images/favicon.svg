@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:ns0="http://www.iki.fi/pav/software/textext/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="favicon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10000"
+     objecttolerance="10000"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="9.896098"
+     inkscape:cy="10.885835"
+     inkscape:document-units="px"
+     inkscape:current-layer="content"
+     inkscape:guide-bbox="false"
+     inkscape:grid-bbox="false"
+     inkscape:grid-points="true"
+     inkscape:guide-points="true"
+     inkscape:object-paths="false"
+     width="800px"
+     height="600px"
+     showgrid="true"
+     inkscape:window-width="1279"
+     inkscape:window-height="949"
+     inkscape:window-x="1"
+     inkscape:window-y="49"
+     borderlayer="true"
+     inkscape:object-points="false"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2382"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <g
+       ns0:preamble=""
+       ns0:text="\\(\\Delta\\)"
+       word-spacing="normal"
+       letter-spacing="normal"
+       font-size-adjust="none"
+       font-stretch="normal"
+       font-weight="normal"
+       font-variant="normal"
+       font-style="normal"
+       fill-rule="even-odd"
+       stroke-miterlimit="10.433"
+       xml:space="preserve"
+       transform="matrix(2,0,0,-2,-445.22,1431.52)"
+       id="content"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+<path
+   id="path2406"
+   d="M 227.69,714.08 L 227.68,714.09 L 227.67,714.1 L 227.67,714.11 L 227.66,714.12 L 227.66,714.13 L 227.65,714.14 L 227.65,714.15 L 227.64,714.16 L 227.63,714.17 L 227.63,714.18 L 227.62,714.18 L 227.62,714.19 L 227.61,714.2 L 227.61,714.2 L 227.6,714.21 L 227.59,714.21 L 227.59,714.22 L 227.58,714.22 L 227.57,714.23 L 227.56,714.23 L 227.56,714.24 L 227.55,714.24 L 227.54,714.24 L 227.53,714.25 L 227.52,714.25 L 227.51,714.25 L 227.5,714.25 L 227.48,714.25 L 227.47,714.25 L 227.46,714.26 L 227.44,714.26 L 227.43,714.26 C 227.26,714.26 227.24,714.21 227.17,714.08 L 227.11,713.26 L 229.79,707.88 L 224.42,707.88 L 227.11,713.26 L 227.17,714.08 L 223.8,707.32 C 223.75,707.23 223.75,707.21 223.75,707.2 C 223.75,707.12 223.81,707.12 223.97,707.12 L 230.88,707.12 C 231.04,707.12 231.1,707.12 231.1,707.2 C 231.1,707.21 231.1,707.23 231.05,707.32 L 227.69,714.08 z"
+   style="fill:#000000;stroke-width:0" />
+</g>  </g>
+</svg>
